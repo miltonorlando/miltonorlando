@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Milton!<br/><a href="https://github.com/miltonorlando">Programmer</a> and <a href="https://www.linkedin.com/in/miltonorlandoperez/">Cybersecurity Student</a></h1>
 
-<h2>🔐🕵️ Hands on Cybersecurity Practice</h2>
+<h2>🕵️ Hands on Cybersecurity Practice</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
