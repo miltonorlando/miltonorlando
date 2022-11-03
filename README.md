@@ -1,5 +1,5 @@
 <h1>👋 Hi, I'm Milton!
-<br>
+<br/>
 <a href="https://github.com/miltonorlando">Programmer</a> and <a href="https://www.linkedin.com/in/miltonorlandoperez/">Cybersecurity Student</a></h1>
 
 <h2>🕵️ Hands on Cybersecurity Practice</h2>
@@ -12,18 +12,17 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice</b>
+- **Data Structures and Algorithms Practice**
   - [Praciting DS & Algos in Python](https://github.com/miltonorlando/Algorithms-Practice)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - Something Here
 - <b>Java (Projects and Learning)</b>
-
+  - Something Here
 - <b>C (Projects and Learning)</b>
+  - Something Here
 
 <h2>👨‍🏫 Cybersecurity Notes & Tutorials:</h2>
+- Something Here
 
 <h2> 🤳 Connect with me:</h2>
 
