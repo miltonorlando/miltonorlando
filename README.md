@@ -20,7 +20,7 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Java (Projects and Learning)</b>
-- 
+
 - <b>C (Projects and Learning)</b>
 
 <h2>👨‍🏫 Cybersecurity Notes & Tutorials:</h2>
