@@ -12,7 +12,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- **Data Structures and Algorithms Practice**
+- <b>Data Structures and Algorithms Practice</b>
   - [Praciting DS & Algos in Python](https://github.com/miltonorlando/Algorithms-Practice)
 - <b>PowerShell</b>
   - Something Here
@@ -22,7 +22,6 @@
   - Something Here
 
 <h2>👨‍🏫 Cybersecurity Notes & Tutorials:</h2>
-- Something Here
 
 <h2> 🤳 Connect with me:</h2>
 
