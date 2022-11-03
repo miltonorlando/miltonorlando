@@ -1,4 +1,6 @@
-<h1>👋 Hi, I'm Milton!<br/><a href="https://github.com/miltonorlando">Programmer</a> and <a href="https://www.linkedin.com/in/miltonorlandoperez/">Cybersecurity Student</a></h1>
+<h1>👋 Hi, I'm Milton!
+<br>
+<a href="https://github.com/miltonorlando">Programmer</a> and <a href="https://www.linkedin.com/in/miltonorlandoperez/">Cybersecurity Student</a></h1>
 
 <h2>🕵️ Hands on Cybersecurity Practice</h2>
 
