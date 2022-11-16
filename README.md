@@ -20,7 +20,7 @@
 
 <h2>👨‍🏫 Cybersecurity Notes & Tutorials:</h2>
 
-- <b>Certifications</b>
+<b>Certifications</b>
   - CompTIA Network+
   - CompTIA Security+
 
