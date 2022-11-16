@@ -19,6 +19,9 @@
   - Something Here
 
 <h2>👨‍🏫 Cybersecurity Notes & Tutorials:</h2>
+- <b>Certifications</b>
+  - CompTIA Network+
+  - ComptTIA Security+
 
 <h2> 🤳 Connect with me:</h2>
 
