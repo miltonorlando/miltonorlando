@@ -12,7 +12,7 @@
 - <b>Data Structures and Algorithms Practice</b>
   - [Praciting DS & Algos in Python](https://github.com/miltonorlando/Algorithms-Practice)
 - <b>PowerShell</b>
-  - Something Here
+  - Tutorial
 - <b>Java</b>
   - Projects
 - <b>C</b>
