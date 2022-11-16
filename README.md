@@ -13,10 +13,10 @@
   - [Praciting DS & Algos in Python](https://github.com/miltonorlando/Algorithms-Practice)
 - <b>PowerShell</b>
   - Something Here
-- <b>Java (Projects and Learning)</b>
-  - Something Here
-- <b>C (Projects and Learning)</b>
-  - Something Here
+- <b>Java</b>
+  - Projects
+- <b>C</b>
+  - Projects
 
 <h2>👨‍🏫 Cybersecurity Notes & Tutorials:</h2>
 
