@@ -17,6 +17,8 @@
   - Projects
 - <b>C</b>
   - [Learning To Program](https://github.com/miltonorlando/C)
+  - Practice
+  - Projects
 
 <h2>👨‍🏫 Cybersecurity Notes & Tutorials:</h2>
 
