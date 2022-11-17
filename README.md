@@ -16,7 +16,7 @@
 - <b>Java</b>
   - Projects
 - <b>C</b>
-  - [Learning To Program]([https://github.com/miltonorlando/C/Notes](https://github.com/miltonorlando/C/tree/main/Notes))
+  - [Learning To Program](https://github.com/miltonorlando/C/tree/main/Notes)
   - Practice
   - Projects
 
