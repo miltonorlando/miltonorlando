@@ -16,7 +16,7 @@
 - <b>Java</b>
   - Projects
 - <b>C</b>
-  - Projects
+  - [Projects](https://github.com/miltonorlando/C)
 
 <h2>👨‍🏫 Cybersecurity Notes & Tutorials:</h2>
 
