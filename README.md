@@ -35,7 +35,7 @@
 [youtube]:  https://www.youtube.com/channel/UCvFzbFnhhOej-ZwKL82q5Xw
 
 <!--
-**miltonorlando/miltonorlando** is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+**miltonorlando/miltonorlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 Here are some ideas to get you started or add in the future:
 
