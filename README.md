@@ -19,7 +19,8 @@
   - Projects
 
 <h2>👨‍🏫 Cybersecurity Notes & Tutorials:</h2>
-- Linux
+- <b>Linux</b>
+
 - <b>Certifications</b>
   - CompTIA Network+
   - CompTIA Security+
