@@ -22,7 +22,6 @@
 - <b>Certifications</b>
   - CompTIA Network+
   - CompTIA Security+
-- Linux 
 
 [<img align="left" alt="MiltonOrlando | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MiltonOrlando | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
