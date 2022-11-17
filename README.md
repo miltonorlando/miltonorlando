@@ -5,7 +5,7 @@
 <h2>🕵️ Hands on Cybersecurity Practice</h2>
 
 -  How to get into Cybersecurity Starting From Zero (LINK COMING SOON)
--  A Day in the Life of a Cybersecurity Anayst (LINK COMING SOON)
+-  A Day in the Life of a Software Anayst (LINK COMING SOON)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
