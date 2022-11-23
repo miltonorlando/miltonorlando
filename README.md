@@ -11,7 +11,7 @@ Please join me on my journey and come learn with me!
 <h2>👨‍🏫 Cybersecurity Notes & Tutorials:</h2>
 
 - <b>Linux</b>
-- [Additional Notes](https://github.com/miltonorlando/Notes)
+- [Notes](https://github.com/miltonorlando/Notes)
 - <b>Certifications</b>
   - CompTIA Network+
   - CompTIA Security+
