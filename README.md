@@ -8,10 +8,13 @@ The intended goal of this page is to aid students, or those just starting out in
 Please join me on my journey and come learn with me! 
 </p>
 
-<h2>🕵️ Hands on Cybersecurity Practice</h2>
+<h2>👨‍🏫 Cybersecurity Notes & Tutorials:</h2>
 
--  How to get into Cybersecurity Starting From Zero (LINK COMING SOON)
--  A Day in the Life of a Software Anayst (LINK COMING SOON)
+- <b>Linux</b>
+- [Additional Notes](https://github.com/miltonorlando/Notes)
+- <b>Certifications</b>
+  - CompTIA Network+
+  - CompTIA Security+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -26,14 +29,10 @@ Please join me on my journey and come learn with me!
   - Practice 
   - Projects
 
-<h2>👨‍🏫 Cybersecurity Notes & Tutorials:</h2>
+<h2>🕵️ Hands on Cybersecurity Practice</h2>
 
-- <b>Linux</b>
-- [Additional Notes](https://github.com/miltonorlando/Notes)
-- <b>Certifications</b>
-  - CompTIA Network+
-  - CompTIA Security+
-
+-  How to get into Cybersecurity Starting From Zero (LINK COMING SOON)
+-  A Day in the Life of a Software Anayst (LINK COMING SOON)
 
 [<img align="left" alt="MiltonOrlando | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MiltonOrlando | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
