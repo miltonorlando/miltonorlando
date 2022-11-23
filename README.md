@@ -1,6 +1,10 @@
 <h1>👋 Hi, I'm Milton!
 <br/>
 <a href="https://github.com/miltonorlando">Programmer</a> and <a href="https://www.linkedin.com/in/miltonorlandoperez/">Cybersecurity Student</a></h1>
+<p> The intended goal of this repository is to aid students, or those just starting out in the field, in learning about the core fundamental tools and technologies used in cybersecurity. 
+
+Please join me on my journey and come learn with me! 
+</p>
 
 <h2>🕵️ Hands on Cybersecurity Practice</h2>
 
