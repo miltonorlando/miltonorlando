@@ -23,7 +23,7 @@
 <h2>👨‍🏫 Cybersecurity Notes & Tutorials:</h2>
 
 - <b>Linux</b>
-- [ Network Fundamentals](https://github.com/miltonorlando/Notes)
+- [Additional Notes](https://github.com/miltonorlando/Notes)
 - <b>Certifications</b>
   - CompTIA Network+
   - CompTIA Security+
