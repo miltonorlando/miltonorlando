@@ -8,7 +8,7 @@ The intended goal of this page is to aid students, or those just starting out in
 Please join me on my journey and come learn with me! 
 </p>
 
-<h2>👨‍🏫 Getting Started in Cybersecurity: Notes & Tutorials</h2>
+<h2>👨‍🏫 Getting Started in Cybersecurity:</h2>
 
 - <b>Linux</b>
 - [Notes](https://github.com/miltonorlando/Notes)
@@ -16,7 +16,7 @@ Please join me on my journey and come learn with me!
   - CompTIA Network+
   - CompTIA Security+
 
-<h2>👨‍💻 Software Development Projects</h2>
+<h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Praciting DS & Algos in Python](https://github.com/miltonorlando/Algorithms-Practice)
@@ -29,7 +29,7 @@ Please join me on my journey and come learn with me!
   - Practice 
   - Projects
 
-<h2>🕵️ Hands on Cybersecurity Practice</h2>
+<h2>🕵️ Hands on Cybersecurity Practice:</h2>
 
 -  How to get into Cybersecurity Starting From Zero (LINK COMING SOON)
 -  A Day in the Life of a Software Anayst (LINK COMING SOON)
