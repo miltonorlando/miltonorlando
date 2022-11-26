@@ -22,6 +22,7 @@ Please join me on my journey and come learn with me!
   - [Praciting DS & Algos in Python](https://github.com/miltonorlando/Algorithms-Practice)
 - <b>PowerShell</b>
   - Tutorial
+  - Active Directory
 - <b>Java</b>
   - Projects
 - <b>C</b>
