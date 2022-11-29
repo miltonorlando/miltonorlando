@@ -27,7 +27,6 @@ Please join me on my journey and come learn with me!
 - <b>C</b>
   - [Learning To Program](https://github.com/miltonorlando/C/tree/main/Notes)
   - [Practice](https://github.com/miltonorlando/C/tree/main/Practice) 
-  - Projects
 
 <h2>🕵️ Hands on Cybersecurity Practice:</h2>
 
