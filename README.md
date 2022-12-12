@@ -30,7 +30,7 @@ Please join me on my journey and come learn with me!
 
 <h2>🕵️ Hands on Cybersecurity Practice:</h2>
 
--  How to get into Cybersecurity (COMING SOON)
+-  How to get started in Cybersecurity (COMING SOON)
 -  Studying for Certs (COMING SOON)
 
 [<img align="left" alt="MiltonOrlando | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
