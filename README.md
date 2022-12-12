@@ -10,7 +10,7 @@ Please join me on my journey and come learn with me!
 
 <h2>👨‍🏫 Getting Started in Cybersecurity:</h2>
 
-- <b>Linux</b>
+- [NSA Manageable Network Plan](https://github.com/miltonorlando/NSA-Manageable-Network-Plan)
 - [Notes](https://github.com/miltonorlando/Notes)
 - <b>Certifications</b>
   - CompTIA Network+
