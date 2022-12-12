@@ -30,8 +30,8 @@ Please join me on my journey and come learn with me!
 
 <h2>🕵️ Hands on Cybersecurity Practice:</h2>
 
--  How to get into Cybersecurity Starting From Zero (LINK COMING SOON)
--  A Day in the Life of a Software Anayst (LINK COMING SOON)
+-  How to get into Cybersecurity (COMING SOON)
+-  Studying for Certs (COMING SOON)
 
 [<img align="left" alt="MiltonOrlando | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MiltonOrlando | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
