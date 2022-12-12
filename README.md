@@ -11,10 +11,10 @@ Please join me on my journey and come learn with me!
 <h2>🕵️ Hands on Cybersecurity Projects and Documents:</h2> 
 
 - [NSA Manageable Network Plan](https://github.com/miltonorlando/NSA-Manageable-Network-Plan)
-- [Notes](https://github.com/miltonorlando/Notes)
 - <b>Certifications</b>
   - CompTIA Network+
   - CompTIA Security+
+- [Notes](https://github.com/miltonorlando/Notes)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
