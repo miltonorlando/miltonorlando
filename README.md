@@ -8,7 +8,7 @@ The intended goal of this page is to aid students, or those just starting out in
 Please join me on my journey and come learn with me! 
 </p>
 
-<h2>👨‍🏫 Getting Started in Cybersecurity:</h2>
+<h2>🕵️ Hands on Cybersecurity Projects and Documents:</h2> 
 
 - [NSA Manageable Network Plan](https://github.com/miltonorlando/NSA-Manageable-Network-Plan)
 - [Notes](https://github.com/miltonorlando/Notes)
@@ -28,7 +28,7 @@ Please join me on my journey and come learn with me!
   - [Learning To Program](https://github.com/miltonorlando/C/tree/main/Notes)
   - [Practice](https://github.com/miltonorlando/C/tree/main/Practice) 
 
-<h2>🕵️ Hands on Cybersecurity Practice:</h2>
+<h2>👨‍🏫 Getting Started in Cybersecurity:</h2>
 
 -  How to get started in Cybersecurity (COMING SOON)
 -  Studying for Certs (COMING SOON)
